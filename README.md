@@ -5,6 +5,9 @@
 - Fluter
 # Back
 - Supabase
-- 
+# Team
+- Lucas
+- Florian
+- Mayeul
 Repository for the Kiroween Hackathon
 
